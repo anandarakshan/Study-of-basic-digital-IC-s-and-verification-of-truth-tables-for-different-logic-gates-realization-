@@ -1,6 +1,6 @@
 # Name : Ananda Rakshan K V
 
-# Roll.No : 23001531
+# Roll.No : 212223230014
 
 # Study of basic digital IC's and verification of truth tables for different logic gates realization 
 ## AIM:
